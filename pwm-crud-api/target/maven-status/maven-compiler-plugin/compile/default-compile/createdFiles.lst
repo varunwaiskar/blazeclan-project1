@@ -1,5 +1,4 @@
-com\pwm\aws\crud\lambda\api\model\Product.class
-com\pwm\aws\crud\lambda\api\ProductLambdaHandler.class
-com\pwm\aws\crud\lambda\api\FileLambdaHandler2.class
+com\pwm\aws\crud\lambda\api\ApiGatewayResponse$Builder.class
+com\pwm\aws\crud\lambda\api\ApiGatewayResponse.class
 com\pwm\aws\crud\lambda\api\model\File.class
-com\pwm\aws\crud\lambda\api\FileLambdaHandler.class
+com\pwm\aws\crud\lambda\api\HttpProxyHandler.class
