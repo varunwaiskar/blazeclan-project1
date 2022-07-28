@@ -1,3 +1,4 @@
+com\pwm\aws\crud\lambda\api\AwsCognitoRSAKeyProvider.class
 com\pwm\aws\crud\lambda\api\ApiGatewayResponse$Builder.class
 com\pwm\aws\crud\lambda\api\ApiGatewayResponse.class
 com\pwm\aws\crud\lambda\api\model\File.class
